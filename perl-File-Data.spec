@@ -3,8 +3,8 @@
 %bcond_without tests # do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	File
-%define	pnam	Data
+%define		pdir	File
+%define		pnam	Data
 Summary:	File::Data - interface to file data
 Summary(pl):	File::Data - interfejs do danych w pliku
 Name:		perl-File-Data
