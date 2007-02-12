@@ -6,7 +6,7 @@
 %define		pdir	File
 %define		pnam	Data
 Summary:	File::Data - interface to file data
-Summary(pl):	File::Data - interfejs do danych w pliku
+Summary(pl.UTF-8):   File::Data - interfejs do danych w pliku
 Name:		perl-File-Data
 Version:	1.12
 Release:	3
@@ -29,15 +29,15 @@ access I have seen in many sites, where varying, (with equivalently
 varying success), methods are used to achieve essentially the same result
 - a simple search and replace and/or a regex match.
 
-%description -l pl
-File::Data owija dostêp do pliku w wygodny zbiór metod do czytania i
-zapisywania danych, w³±czaj±c w to prosty interfejs wyra¿eñ regularnych.
+%description -l pl.UTF-8
+File::Data owija dostÄ™p do pliku w wygodny zbiÃ³r metod do czytania i
+zapisywania danych, wÅ‚Ä…czajÄ…c w to prosty interfejs wyraÅ¼eÅ„ regularnych.
 
-Pomys³ polega na standaryzacji dostêpu do plików w przypadku powtarzalnych
-i prostych zadañ, oraz usuniêciu powtarzaj±cych siê, czyli sk³onnych
-do b³êdów dostêpów do plików spotykanych w wielu miejscach, gdzie
-ró¿ne metody (z ró¿nym skutkiem) u¿ywane s± do osi±gniêcia w zasadzie
-tego samego rezultatu -- prostego wyszukiwania i zastêpowania i/lub
+PomysÅ‚ polega na standaryzacji dostÄ™pu do plikÃ³w w przypadku powtarzalnych
+i prostych zadaÅ„, oraz usuniÄ™ciu powtarzajÄ…cych siÄ™, czyli skÅ‚onnych
+do bÅ‚Ä™dÃ³w dostÄ™pÃ³w do plikÃ³w spotykanych w wielu miejscach, gdzie
+rÃ³Å¼ne metody (z rÃ³Å¼nym skutkiem) uÅ¼ywane sÄ… do osiÄ…gniÄ™cia w zasadzie
+tego samego rezultatu -- prostego wyszukiwania i zastÄ™powania i/lub
 dopasowania wzorca.
 
 %prep
