@@ -6,7 +6,7 @@
 %define		pdir	File
 %define		pnam	Data
 Summary:	File::Data - interface to file data
-Summary(pl.UTF-8):   File::Data - interfejs do danych w pliku
+Summary(pl.UTF-8):	File::Data - interfejs do danych w pliku
 Name:		perl-File-Data
 Version:	1.12
 Release:	3
