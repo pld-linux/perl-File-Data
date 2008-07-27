@@ -9,7 +9,7 @@ Summary:	File::Data - interface to file data
 Summary(pl.UTF-8):	File::Data - interfejs do danych w pliku
 Name:		perl-File-Data
 Version:	1.12
-Release:	3
+Release:	4
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
