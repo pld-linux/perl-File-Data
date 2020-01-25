@@ -4,7 +4,6 @@
 
 %define		pdir	File
 %define		pnam	Data
-%include	/usr/lib/rpm/macros.perl
 Summary:	File::Data - interface to file data
 Summary(pl.UTF-8):	File::Data - interfejs do danych w pliku
 Name:		perl-File-Data
